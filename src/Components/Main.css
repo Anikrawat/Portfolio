@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+
+.Body{
+    background-image: url(../Images/NightSKy.jpg)
+}
+
+
+@tailwind utilities;
